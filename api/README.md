@@ -1,7 +1,7 @@
 
 ## Description
 
-[Language Card API](https://github.com/janosvajda/language-cards/t) Language card api for learning languages easier.
+[Language Card API](https://github.com/janosvajda/language-cards/) Language card api for learning languages easier.
 
 ## Installation
 
