@@ -1,0 +1,19 @@
+{
+  "name": "language-cards",
+  "version": "1.0.0",
+  "description": "Language cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janosvajda/language-cards.git"
+  },
+  "author": "Janos Vajda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janosvajda/language-cards/issues"
+  },
+  "homepage": "https://github.com/janosvajda/language-cards#readme"
+}
